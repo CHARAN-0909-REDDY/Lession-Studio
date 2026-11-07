@@ -1,4 +1,4 @@
-# Lesson Studio
+# Lesson-Studio
 
 A local web app for building evidence-backed lessons. Enter a lesson title and objective; the app searches public reference pages and book records, plus supplementary YouTube videos when configured. Review the findings, generate an editable lesson, run separate factual and teaching-quality reviews, apply their recommendations, save drafts locally, and export editable Word-compatible `.doc` and Markdown files.
 
